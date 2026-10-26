@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-ini"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг INI-файлов."
+    репозиторий = "github.com/skytech-alt/skyforge-ini"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
